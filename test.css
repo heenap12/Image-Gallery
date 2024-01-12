@@ -1,0 +1,63 @@
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+
+}
+.x{
+    position: relative;
+    left: -500px;
+    line-height: 40px;
+    color: white;
+    top: 70px;
+    
+}
+body{
+    background-color: rgba(29, 29, 62, 0.53);
+}
+div{
+    width: 900px;
+    height: 700px;
+    background-color: white;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+
+}
+.z{
+    border-radius: 10px;
+    rotate: -30deg;
+    position: relative;
+    left: 30px;
+    top: 40px;
+    box-shadow: 4px 4px 8px black;
+}
+#b{
+    left: 90px;
+}
+#c{
+    left: 150px;
+}
+#d{
+    top: 90px;
+}
+#e{
+    left: 90px;
+    top: 90px;
+}
+#f{
+    left: 150px;
+    top: 90px;
+}
+#g{
+    left: 10px;
+    top: 280px;
+}
+#h{
+    top: 140px;
+    left: 80px;
+}
+#i{
+    left: 140px;
+    top: 150px;
+}
